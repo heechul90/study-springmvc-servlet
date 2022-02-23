@@ -1,13 +1,13 @@
 package hellcoding.spring.servlet.domain.member;
 
-import org.assertj.core.api.Assertions;
+import hellcoding.springmvc.servlet.servlet.domain.member.Member;
+import hellcoding.springmvc.servlet.servlet.domain.member.MemberRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.*;
-import static org.junit.jupiter.api.Assertions.*;
 
 class MemberRepositoryTest {
 

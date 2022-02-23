@@ -6,8 +6,8 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="hellcoding.spring.servlet.domain.member.MemberRepository" %>
-<%@ page import="hellcoding.spring.servlet.domain.member.Member" %>
+<%@ page import="hellcoding.springmvc.servlet.servlet.domain.member.MemberRepository" %>
+<%@ page import="hellcoding.springmvc.servlet.servlet.domain.member.Member" %>
 <%
     // request, response 사용 가능
     MemberRepository memberRepository = MemberRepository.getInstance();

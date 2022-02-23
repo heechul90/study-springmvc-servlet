@@ -1,6 +1,6 @@
-<%@ page import="hellcoding.spring.servlet.domain.member.Member" %>
+<%@ page import="hellcoding.springmvc.servlet.servlet.domain.member.Member" %>
 <%@ page import="java.util.List" %>
-<%@ page import="hellcoding.spring.servlet.domain.member.MemberRepository" %><%--
+<%@ page import="hellcoding.springmvc.servlet.servlet.domain.member.MemberRepository" %><%--
   Created by IntelliJ IDEA.
   User: hclee
   Date: 2022-02-20
