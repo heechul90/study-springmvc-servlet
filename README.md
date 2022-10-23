@@ -55,4 +55,6 @@
     - 스프링 MVC - 실용적인 방식
     - 정리
     
-[다음으로](https://github.com/heechul90/study-springmvc-http)
+[[이전으로]](https://github.com/heechul90/study-spring-basic) [[다음으로]](https://github.com/heechul90/study-springmvc-http)
+
+[[복습하기/적용하기]](https://github.com/heechul90/project-hellcoding)
